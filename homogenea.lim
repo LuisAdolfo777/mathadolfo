@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>Directorio_de_recursos</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>80FFFF</corfondo>
+        <corbanda>FFFF00</corbanda>
+        <cornavega>FF0000</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>FRACCIONES HOMOGÉNEAS </titulo>
+        <autor>Luis Rangel Osorio</autor>
+        <iden>2021172013</iden>
+        <logo>logo.jpg</logo>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="applause-cheer-236786.mp3" modo="1" >¡Felicidades, lo hicistes muy bien!</correcto>
+        <incorrecto son="fail-234710.mp3" modo="1" >No te desanimes , sigue intentando</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe auto="1"  posx="0" posy="0">hoja_de_presentacion.jpg</imaxe>
+              <son auto="1">fun-upbeat-background-music-311769.mp3</son>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <imaxe auto="1"  posx="0" posy="0">homogeneas_y_heterogeneas.jpg</imaxe>
+              <son auto="1">kids-happy-music-321584.mp3</son>
+              <texto posx="375" posy="141" ancho="200" largo="200"><![CDATA[
+<p align="left">
+<font color="#0000FF" face="Verdana" size="28"><b><i>Bienvenidos al estudio de fracciones homogéneas, presta mucha atención porque apartir de ahora será de mucha diversión.</i></b><br>
+<br>
+</font></p>
+]]></texto>
+              <cfondo>80FFFF</cfondo>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="3" >
+              <tipo>11</tipo>
+              <cabeceira>Actividad1: arrastra el nombre a estos fracciones homogéneas</cabeceira>
+              <son auto="1">kids-happy-music-321584.mp3</son>
+              <modo>3</modo>
+              <cousa nome="Dos quintos">Dos_quintos.JPG</cousa>
+              <cousa nome="Tres cuartos">tres_cuartos.jpg</cousa>
+              <cousa nome="Tres cuartos">tres_cuartos2.png</cousa>
+              <cousa nome="Dos quintos">dosquintos.png</cousa>
+        </paxina>
+        <paxina id="4" >
+              <tipo>3</tipo>
+              <cabeceira>Actividad 2: organiza el siguiente rompecabezas de fracciones homogéneas.</cabeceira>
+              <imaxe>puzle1.jpg</imaxe>
+              <son auto="1">kids-happy-music-321584.mp3</son>
+              <filas>4</filas>
+              <columnas>4</columnas>
+              <reixa>1</reixa>
+            <forma>0</forma>
+        </paxina>
+        <paxina id="5" >
+              <tipo>4</tipo>
+              <cabeceira>Actividad 3: encuentra las fracciones homogéneas</cabeceira>
+              <son auto="1">kids-happy-music-321584.mp3</son>
+              <modo>2</modo>
+              <sopa enun="tres_cuartos2.png">trescuartos</sopa>
+              <sopa enun="un_medio2.jpeg">unmedio</sopa>
+              <sopa enun="tres_cuartos.jpg">TRESCUARTOS</sopa>
+              <sopa enun="Dos_quintos.JPG">DOSQUINTOS</sopa>
+              <sopa enun="dosquintos.png">dosquintos</sopa>
+              <sopa enun="unmedio3.jpg">UNMEDIO</sopa>
+              <enunciado>1</enunciado>
+              <colorea>1</colorea>
+              <cadro>1</cadro>
+        </paxina>
+        <paxina id="6" >
+              <tipo>2</tipo>
+              <imaxe auto="1"  posx="0" posy="0">imagen_ninnos.jpg</imaxe>
+              <son auto="1">applause-cheer-236786.mp3</son>
+        </paxina>
+    </libro>
+</lim>
